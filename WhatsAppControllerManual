@@ -1,0 +1,21 @@
+WhatsAppControllerManual/
+│
+├── settings.gradle.kts
+├── build.gradle.kts
+├── gradle.properties
+│
+└── app/
+    ├── build.gradle.kts
+    └── src/main/
+        ├── AndroidManifest.xml
+        ├── java/
+        │   └── .../
+        │       ├── MainActivity.kt
+        │       ├── ScannerActivity.kt
+        │       └── QrAnalyzer.kt
+        └── res/
+            ├── layout/
+            │   ├── activity_main.xml
+            │   └── activity_scanner.xml
+            └── values/
+                └── styles.xml
